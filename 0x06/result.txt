@@ -1,0 +1,11 @@
+Sonarqube
+
+Erros
+    - Erro 1
+    - Erro 2
+    - Erro 3
+
+Vulnerabilidade
+- Vulnerabilidade 1
+- Vulnerabilidade 2
+- Vulnerabilidade 3
